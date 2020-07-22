@@ -1,3 +1,5 @@
+minggu 01 
+*GAMBARAN UMUM CLOUD COMPUTING 
 Cloud computing adalah ketersediaan sumber daya sistem komputer sesuai permintaan, terutama penyimpanan data (cloud storage) dan daya komputasi, 
 tanpa manajemen aktif langsung oleh pengguna. Istilah ini umumnya digunakan untuk menggambarkan pusat data yang tersedia bagi banyak pengguna melalui Internet.
 Service models (model layanan)
@@ -22,4 +24,3 @@ runtime yang ditingkatkan dan pemrosesan memori adaptif untuk model antarmuka te
 Model khusus cloud hybrid, yang dibangun di atas perangkat heterogen, disebut "Cross-platform Hybrid Cloud". Cloud hybrid lintas platform biasanya didukung oleh arsitektur CPU yang berbeda, misalnya,
  x86-64 dan ARM, di bawahnya. Pengguna dapat menyebarkan dan membuat skala aplikasi secara transparan tanpa sepengetahuan keanekaragaman perangkat keras cloud. 
 Cloud semacam ini muncul dari bangkitnya sistem-on-chip berbasis-ARM untuk komputasi kelas-server.
-
